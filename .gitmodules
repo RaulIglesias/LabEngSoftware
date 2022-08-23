@@ -1,3 +1,6 @@
 [submodule "folder_submodule"]
 	path = folder_submodule
 	url = https://github.com/RaulIglesias/servico_persistencia.git
+[submodule "servico_persistencia"]
+	path = servico_persistencia
+	url = https://github.com/RaulIglesias/servico_persistencia.git

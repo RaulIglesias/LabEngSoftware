@@ -2,4 +2,7 @@
 ## Laboratório de Engenharia de Software
 
 
-Repositório para práticas vinculadas ao aprendizado do aluno Raul Santos Iglesias.
+Repositório para práticas vinculadas ao aprendizado do aluno Raul Santos Iglesias. 
+
+Temas para TG:
+	- 
